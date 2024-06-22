@@ -15,6 +15,6 @@ public class Main6 {
                 }
             }
             System.out.println("Равны ли массивы? " + result);
-        }else System.out.println("Равны ли массивы? " + result);
+        }
     }
 }
